@@ -1,0 +1,13 @@
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.exe
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.deps.json
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.runtimeconfig.json
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.runtimeconfig.dev.json
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.dll
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\bin\Debug\netcoreapp3.1\OfficeStoreApp.pdb
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.csprojAssemblyReference.cache
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.AssemblyInfoInputs.cache
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.AssemblyInfo.cs
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.dll
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.pdb
+C:\Users\dan\source\repos\OfficeStoreApp\OfficeStoreApp\obj\Debug\netcoreapp3.1\OfficeStoreApp.genruntimeconfig.cache
