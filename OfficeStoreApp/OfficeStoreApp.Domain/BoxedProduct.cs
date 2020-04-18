@@ -5,7 +5,7 @@ using OfficeStoreApp.Domain.Contracts;
 
 namespace OfficeStoreApp.Domain
 {
-    class BoxedProduct : IBoxedProduct
+    public class BoxedProduct : IBoxedProduct
     {
         public Product ProductInStack { set; get; }
 
